@@ -13,8 +13,8 @@ PharoDebug.log
 # Squeak Smalltalk Debug log file
 SqueakDebug.log
 
-# Dolphin Smalltalk source file
-*.sml
+# Scratch 3.0 source file
+*.sb3
 
 # Dolphin Smalltalk error file
 *.errors
