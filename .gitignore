@@ -1,3 +1,6 @@
+# HBPK Metadata File
+*.hbmd
+
 # changes file
 *.changes
 *.chg
@@ -19,6 +22,18 @@ SqueakDebug.log
 # Dolphin Smalltalk error file
 *.errors
 
+# Beacon Source File
+*.bcon
+
+# bcon-cmp Error Log File
+bcon-cmp-errors.log
+
+# Hubot App File
+*.hbpk
+
+# bcon-ide App File
+bcon-ide.hbpe
+
 # Monticello package cache
 /package-cache
 
@@ -29,3 +44,23 @@ SqueakDebug.log
 # Metacello-github cache
 /github-cache
 github-*.zip
+
+# bcon-cmp Personalizaton File
+/bcon-pf
+*.bconpf
+
+# Hubot OS Skex File
+*.hbskex
+
+# bcon-adt Console File
+bcon-adt.sb3
+bcon-adt.bconpf
+
+# Hubot OS Console File
+*.hbcf
+
+# pastaOS Video File
+*.povid
+
+# pastaOS Music File
+*.pomus
